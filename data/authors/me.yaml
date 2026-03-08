@@ -14,8 +14,8 @@ status:
 role: "Pharmaceutical Scientist | Lecturer"
 bio: "Yuda Prasetya Nugraha is an Assistant Professor at Bandung Institute of Technology. He is a member of Pharmaceutics Department at the School of Pharmacy. His research interests include drug polymorphism, multicomponent crystals, solid-state characterization of pharmaceutical materials, and solid dosage form development."
 affiliations:
-  - name: "Meta AI"
-    url: "https://ai.meta.com/"
+  - name: "Bandung Institute of Technology"
+    url: "https://itb.ac.id"
 links:
   - icon: "at-symbol"
     url: "mailtoyudapn@itb.ac.id"
@@ -27,10 +27,10 @@ links:
   - icon: "academicons/orcid"
     url: "https://orcid.org/0000-0002-2993-3344"
 interests:
-  - "Large Language Models"
-  - "Computer Vision"
-  - "Reinforcement Learning"
-  - "AI Ethics"
+  - "Pharmaceutics"
+  - "Pharmaceutical Crystallography"
+  - "Multicomponent Crystals"
+  - "Solid Dosage Form Development"
 education:
   - degree: "PhD Computer Science"
     institution: "Stanford University"
