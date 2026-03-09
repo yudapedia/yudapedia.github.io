@@ -32,67 +32,35 @@ interests:
   - "Multicomponent Crystals"
   - "Solid Dosage Form Development"
 education:
-  - degree: "PhD Computer Science"
-    institution: "Stanford University"
-    start: "2015-09-01"
-    end: "2019-06-30"
-    summary: "Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.\n"
-    button:
-      text: "Download dissertation"
-      url: "/resume.pdf"
-      icon: "hero/arrow-down-tray"
-  - degree: "MS Computer Science"
-    institution: "Carnegie Mellon University"
-    start: "2013-09-01"
-    end: "2015-05-31"
-  - degree: "BS Computer Science"
-    institution: "MIT"
-    start: "2009-09-01"
-    end: "2013-05-31"
+  - degree: "DrSci in Chemistry and Materials Science"
+    institution: "Tokyo Institute of Technology"
+    start: "2015"
+    end: "2018"
+    summary: "Structural insights into physicochemical properties alteration in metoclopramide and its multicomponent crystals"
+  - degree: "MSc in Pharmacy"
+    institution: "Bandung Institute of Technology"
+    start: "2012"
+    end: "2013"
+    summary: "Pharmaceutics"
+  - degree: "Apt (Pharmacist License)"
+    institution: "Bandung Institute of Technology"
+    start: "2018"
+    end: "2019"
+    summary: "Pharmacist pofessional licence (Apoteker)"
+  - degree: "BPharm in Pharmacy"
+    institution: "Bandung Institute of Technology"
+    start: "2008"
+    end: "2012"
+    summary: "Pharmaceutical Science and Technology"
 experience:
-  - role: "Senior AI Research Scientist"
-    org: "Meta AI"
-    start: "2020-01-01"
-    summary: "Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.\n"
-    button:
-      text: "View portfolio"
-      url: "/"
-      icon: "hero/arrow-down-tray"
-  - role: "AI Research Intern"
-    org: "OpenAI"
-    start: "2019-06-01"
-    end: "2019-12-31"
-    summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
-skills:
-  - name: "Technical Skills"
-    items:
-      - label: "Python"
-        level: 5
-      - label: "Machine Learning"
-        level: 5
-      - label: "Cloud Computing"
-        level: 4
-  - name: "Research & Communication"
-    items:
-      - label: "Academic Writing"
-        level: 5
-      - label: "Conference Presentations"
-        level: 4
-      - label: "Grant Proposals"
-        level: 4
-languages:
-  - name: "English"
-    level: 5
-    label: "Native"
-  - name: "Spanish"
-    level: 4
-    label: "Fluent"
-awards:
-  - title: "Best Paper Award"
-    awarder: "NeurIPS"
-    date: "2022-12-01"
-    summary: "Awarded for groundbreaking work on efficient training of large models."
-    icon: "hero/trophy"
+  - role: "Assistant Professor"
+    org: "Bandung Institute of Technology"
+    start: "2019-03"
+    end: ""
+    summary: "Department of Pharmaceutics, School of Pharmacy"
+skills: []
+languages: []
+awards: []
 ids:
   google_scholar: "L3gxWLQAAAAJ"
   scopus: "57191877566"
